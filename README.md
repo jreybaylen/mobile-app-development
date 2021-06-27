@@ -3,7 +3,7 @@ A list of iOS and Android mobile applications
 
 ## iOS (Swift)
 - [Weather App](https://github.com/jreybaylen/mobile-app-development/tree/main/WeatherSwiftUIApp)
+- [Portfolio App](https://github.com/jreybaylen/mobile-app-development/tree/main/PortfolioSwiftUIApp)
 
-![Light Theme](AppScreenshots/weather-app/light-theme.png)
-
-![Dark Theme](AppScreenshots/weather-app/dark-theme.png)
+## Author
+[John Rey "Jrey" Baylen](https://github.com/jreybaylen)
